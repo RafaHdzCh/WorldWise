@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "203f",
+      "cityName": "Guadalajara",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2024-06-04T15:18:44.718Z",
+      "notes": "Guadalajaaara",
+      "position": {
+        "lat": "20.65687994422618",
+        "lng": "-103.38272094726562"
+      }
+    },
+    {
+      "id": "8659",
+      "cityName": "Zapopan",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2024-06-04T15:20:16.218Z",
+      "notes": "zapppppopoan",
+      "position": {
+        "lat": "20.689643957153592",
+        "lng": "-103.44812393188478"
+      }
+    },
+    {
+      "id": "b80e",
+      "cityName": "Tlaquepaque",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2024-06-04T15:21:14.851Z",
+      "notes": "TTTT",
+      "position": {
+        "lat": "20.587152620582795",
+        "lng": "-103.2992935180664"
+      }
+    },
+    {
+      "id": "9210",
+      "cityName": "Guadalajara",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2024-06-07T17:37:23.298Z",
+      "notes": "My next adventure",
+      "position": {
+        "lat": "20.688841002153065",
+        "lng": "-103.39559555053711"
+      }
+    }
+  ]
+}
